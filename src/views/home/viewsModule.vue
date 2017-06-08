@@ -30,7 +30,7 @@
       </div>
     </div>
     <div class="for4-down">
-      <img class="for4-1" src="../../assets/images/home/1.png"></img>
+      <img class="for4-1" src="http://s2.mogucdn.com/mlcdn/1689c6/170602_0j6900fkk2abe0k99aefkj453ki7f_640x640.jpg_320x999.webp"></img>
       <div class="for4-2">
         <img class="for4-2-1" src="http://s7.mogucdn.com/p1/160314/2p_ifrtamjrgjstoyrug4zdambqhayde_428x174.jpg"></img>
         <div class="for4-2-2">
